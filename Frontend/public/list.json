@@ -1,0 +1,524 @@
+[    
+
+{
+    "Id": 1,
+    "Price": 5999,
+    "Oldprice": 7498,
+    "Percentoff": "20%",
+    "Name": "Zushaam Trendy Handbag for Stylish Men",
+    "Category": "Men",
+    "Description": "This stylish handbag is designed for the modern man who values both functionality and fashion. With spacious compartments, it offers ample room for all your essentials, making it perfect for work or casual outings. The high-quality material ensures durability while the trendy design adds a touch of elegance to your look. Whether you're heading to the office or out for a weekend getaway, this handbag is the perfect accessory to complement any outfit.",
+    "Img": "https://www.junaidjamshed.com/media/catalog/product/3/4/34895_1_.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=755&width=589&canvas=589:755"
+},
+{
+    "Id": 2,
+    "Price": 4999,
+    "Oldprice": 6249,
+    "Percentoff": "20%",
+    "Name": "Men's Casual Shirt with Stylish Design",
+    "Category": "Men",
+    "Description": "Upgrade your wardrobe with this high-quality casual shirt designed specifically for men. Made from premium materials, this shirt is not only comfortable but also versatile enough for various occasions. Whether you pair it with jeans for a casual outing or dress it up with trousers for a more formal look, you'll always be in style. The breathable fabric ensures you stay cool and comfortable, making it a perfect choice for summer days or layered under a jacket during cooler months.",
+    "Img": "https://www.junaidjamshed.com/media/catalog/product/3/3/33027_5__1.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=755&width=589&canvas=589:755"
+},
+{
+    "Id": 3,
+    "Price": 4399,
+    "Oldprice": 5499,
+    "Percentoff": "20%",
+    "Name": "Elegant Classic Formal Shirt for Men",
+    "Category": "Men",
+    "Description": "This elegant classic formal shirt is the perfect addition to any man’s wardrobe. Crafted from fine quality fabric, it features a sophisticated design that enhances your professional appearance. The tailored fit provides comfort and style, making it suitable for important meetings, interviews, or formal events. Available in multiple colors, this shirt pairs well with tailored trousers or suits, ensuring you always look polished and confident. Elevate your style with this timeless piece that never goes out of fashion.",
+    "Img": "https://www.junaidjamshed.com/media/catalog/product/3/3/33068_1__1.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=755&width=589&canvas=589:755"
+},
+{
+    "Id": 4,
+    "Price": 4999,
+    "Oldprice": 6249,
+    "Percentoff": "20%",
+    "Name": "Comfortable Casual Pants for Everyday Use",
+    "Category": "Men",
+    "Description": "Discover the perfect blend of style and comfort with these casual pants designed for everyday wear. Made from durable fabric, they are ideal for any activity, from running errands to relaxing at home. The classic fit and versatile color options make them easy to pair with a variety of tops, ensuring you always look effortlessly stylish. Whether dressed up with a shirt or kept casual with a t-shirt, these pants are a must-have for every man’s wardrobe.",
+    "Img": "https://www.junaidjamshed.com/media/catalog/product/3/4/34840-1_3_.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=755&width=589&canvas=589:755"
+},
+
+{
+    "Id": 5,
+    "Price": 3999,
+    "Oldprice": 4999,
+    "Percentoff": "20%",
+    "Name": "Classic White Vigo Shirt for Any Occasion",
+    "Category": "Men",
+    "Description": "Introducing the classic white Vigo shirt, perfect for both casual and formal occasions. This versatile piece is made from high-quality fabric that ensures comfort and breathability throughout the day. The timeless design allows for easy pairing with trousers or jeans, making it a go-to option for any event. Whether you're heading to a business meeting or a casual gathering, this shirt adds a touch of elegance to your look, making it an essential addition to your wardrobe.",
+    "Img": "https://nishatlinen.com/cdn/shop/files/KNS24-31-_6_fdd2ce8b-0609-4817-b5e3-ef37ced13ae6.jpg?v=1707551186&width=700"
+},
+{
+    "Id": 6,
+    "Price": 6499,
+    "Oldprice": 7999,
+    "Percentoff": "19%",
+    "Name": "Vintage Look Polo Shirt for Men",
+    "Category": "Men",
+    "Description": "Bring a retro vibe to your wardrobe with this vintage look polo shirt. Combining classic design with modern quality, this polo is crafted from soft fabric for all-day comfort. Perfect for casual outings or weekend brunches, it pairs beautifully with shorts or jeans. The unique color options and stylish fit make it a versatile choice for men who appreciate a touch of nostalgia in their style. Stand out from the crowd with this timeless piece that’s both fashionable and functional.",
+    "Img": "https://www.junaidjamshed.com/media/catalog/product/3/4/34791.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=755&width=589&canvas=589:755"
+},
+{
+    "Id": 7,
+    "Price": 6999,
+    "Oldprice": 8749,
+    "Percentoff": "20%",
+    "Name": "Cozy Classic Sweater for Chilly Days",
+    "Category": "Men",
+    "Description": "Stay warm and stylish with this cozy classic sweater, perfect for chilly days. Made from soft, high-quality materials, this sweater provides comfort while keeping you warm. Its timeless design makes it easy to pair with jeans or chinos, ensuring you look great no matter the occasion. Ideal for layering or wearing on its own, this sweater is a versatile addition to any man's wardrobe. Choose this classic piece for both functionality and style this winter season.",
+    "Img": "https://www.junaidjamshed.com/media/catalog/product/j/j/jjsw-584_2_.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=755&width=589&canvas=589:755"
+},
+{
+    "Id": 8,
+    "Price": 4799,
+    "Oldprice": 5999,
+    "Percentoff": "20%",
+    "Name": "Casual V-Neck Shirt for Effortless Style",
+    "Category": "Men",
+    "Description": "The Casual V-Neck Shirt is designed for the modern man who values both style and comfort. Its soft fabric and relaxed fit make it perfect for casual outings, while the V-neck design adds a touch of elegance. Pair it with shorts for a relaxed look or dress it up with trousers for a night out. This versatile shirt is a must-have in any wardrobe, providing endless styling options for every occasion. Make a statement with this essential piece.",
+    "Img": "https://www.junaidjamshed.com/media/catalog/product/j/j/jjvc-48058_3_.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=755&width=589&canvas=589:755"
+},
+{
+    "Id": 9,
+    "Price": 4399,
+    "Oldprice": 5499,
+    "Percentoff": "20%",
+    "Name": "Stylish Striped Long Sleeve Shirt for Men",
+    "Category": "Men",
+    "Description": "Enhance your wardrobe with this stylish striped long sleeve shirt, perfect for any occasion. Crafted from soft fabric, it provides all-day comfort while ensuring you look polished and sophisticated. The classic stripe design adds a modern twist to a timeless silhouette, making it easy to pair with tailored trousers or jeans. This versatile piece is suitable for both casual and formal settings, making it a smart choice for any man's collection.",
+    "Img": "https://www.gulahmedshop.com/media/catalog/product/f/e/fendy_plus_unstitched_fabric_cotton_414415_1_.jpg?optimize=medium&auto=webp&bg-color=255,255,255&fit=bounds&canvas=2:3&width=450&height=675"
+},
+{
+    "Id": 10,
+    "Price": 4999,
+    "Oldprice": 6249,
+    "Percentoff": "20%",
+    "Name": "Trendy Men's Hooded Jacket for All Seasons",
+    "Category": "Men",
+    "Description": "Stay stylish and warm with this trendy men's hooded jacket. Designed for all seasons, it offers a comfortable fit and modern style, making it perfect for layering. Crafted from high-quality materials, this jacket ensures durability while providing insulation against the elements. The versatile design allows it to be worn casually or dressed up for a night out, making it an essential piece for every man's wardrobe. Choose this jacket to enhance your style while staying cozy.",
+    "Img": "https://www.gulahmedshop.com/media/catalog/product/a/l/alora_cotton_plus_unstitched_fabric_cotton_black_1_.jpg?optimize=medium&auto=webp&bg-color=255,255,255&fit=bounds&canvas=2:3&width=450&height=675"
+},
+
+{
+    "Id": 11,
+    "Price": 6299,
+    "Oldprice": 7498,
+    "Percentoff": "16%",
+    "Name": "Trendy Crossbody Bag for Stylish Girls",
+    "Category": "Girls",
+    "Description": "This trendy crossbody bag is perfect for the modern girl who loves to blend fashion with function. Featuring spacious compartments, it offers enough room for all your essentials, making it ideal for school or outings with friends. Crafted from high-quality material, it ensures durability while adding a chic touch to your ensemble.",
+    "Img": "https://www.tanabana.com.pk/cdn/shop/files/1_8dd47a95-a668-4839-b4e6-55b7b2727a30_360x.jpg?v=1714567976"
+},
+{
+    "Id": 12,
+    "Price": 5199,
+    "Oldprice": 6349,
+    "Percentoff": "18%",
+    "Name": "Elegant Lawn Suit with Stylish Print",
+    "Category": "Girls",
+    "Description": "Elevate your wardrobe with this elegant lawn suit designed for girls who appreciate style and comfort. Made from breathable fabric, this suit is perfect for summer gatherings or festive occasions. Its vibrant prints and delicate embroidery make it a must-have for a chic look.",
+    "Img": "https://www.tanabana.com.pk/cdn/shop/files/1_4907479f-b0b6-4fc6-a693-410cb10b715b_360x.jpg?v=1714568420"
+},
+{
+    "Id": 13,
+    "Price": 4699,
+    "Oldprice": 5799,
+    "Percentoff": "19%",
+    "Name": "Stylish Anarkali Dress for Festive Wear",
+    "Category": "Girls",
+    "Description": "This stylish Anarkali dress is a beautiful addition to any girl's festive wardrobe. Crafted from premium fabric, it features intricate detailing that enhances its traditional charm. Perfect for weddings or family gatherings, this dress allows you to celebrate in style.",
+    "Img": "https://www.tanabana.com.pk/cdn/shop/files/1_3d92638c-5ff0-43b1-8c3e-e9fe37215d11_360x.jpg?v=1714568171"
+},
+{
+    "Id": 14,
+    "Price": 4599,
+    "Oldprice": 5799,
+    "Percentoff": "21%",
+    "Name": "Comfortable Palazzos for Everyday Chic",
+    "Category": "Girls",
+    "Description": "Discover effortless style with these comfortable palazzos, perfect for everyday wear. Made from soft, flowy fabric, they provide ease and comfort while keeping you trendy. Pair them with a fitted top or kurti for a stylish yet relaxed look.",
+    "Img": "https://www.tanabana.com.pk/cdn/shop/files/BC-V2-04_1_441b6eb8-7fe5-43ce-9be2-9e4677b806cf_360x.jpg?v=1729775381"
+},
+{
+    "Id": 15,
+    "Price": 4199,
+    "Oldprice": 5199,
+    "Percentoff": "19%",
+    "Name": "Chic Printed Tunic for Casual Outings",
+    "Category": "Girls",
+    "Description": "Introducing this chic printed tunic, designed for girls who love to express their style. Made from high-quality fabric, it’s perfect for casual outings or layered looks. The vibrant patterns and easy fit make it a go-to option for any occasion.",
+    "Img": "https://www.tanabana.com.pk/cdn/shop/files/BC-V2-06_2_360x.jpg?v=1729775723"
+},
+{
+    "Id": 16,
+    "Price": 6799,
+    "Oldprice": 8499,
+    "Percentoff": "20%",
+    "Name": "Vintage Look Kurti for Traditional Elegance",
+    "Category": "Girls",
+    "Description": "Bring a touch of vintage elegance to your wardrobe with this beautifully designed kurti. Combining classic patterns with modern comfort, this kurti is perfect for casual wear or festive occasions. Pair it with jeans or a churidar for a complete look.",
+    "Img": "https://www.tanabana.com.pk/cdn/shop/files/BC-V2-05_2_360x.jpg?v=1729775566"
+},
+{
+    "Id": 17,
+    "Price": 7499,
+    "Oldprice": 8999,
+    "Percentoff": "17%",
+    "Name": "Cozy Knitted Sweater for Winter Wear",
+    "Category": "Girls",
+    "Description": "Stay warm and fashionable with this cozy knitted sweater, ideal for chilly days. Crafted from soft materials, it provides comfort while adding a stylish layer to any outfit. Perfect for pairing with jeans or skirts, this sweater is a winter essential for every girl.",
+    "Img": "https://pk.khaadi.com/dw/image/v2/BJTG_PRD/on/demandware.static/-/Sites-khaadi-master-catalog/default/dwdd41f758/images/hi-res/eet24657a_d-green_2.jpg?sw=400&sh=600"
+},
+{
+    "Id": 18,
+    "Price": 4899,
+    "Oldprice": 5999,
+    "Percentoff": "18%",
+    "Name": "Stylish Long Sleeve Top for Everyday Fashion",
+    "Category": "Girls",
+    "Description": "This stylish long sleeve top is designed for the modern girl who loves to stay chic and comfortable. Made from soft fabric, it’s perfect for casual outings or layered looks. The unique design allows for effortless styling with skirts, jeans, or shorts.",
+    "Img": "https://pk.khaadi.com/dw/image/v2/BJTG_PRD/on/demandware.static/-/Sites-khaadi-master-catalog/default/dwd2bd190d/images/hi-res/esb24523_navy_2.jpg?sw=400&sh=600"
+},
+{
+    "Id": 19,
+    "Price": 4599,
+    "Oldprice": 5799,
+    "Percentoff": "21%",
+    "Name": "Elegant Chiffon Dupatta for Complete Look",
+    "Category": "Girls",
+    "Description": "Complete your outfit with this elegant chiffon dupatta, perfect for adding a touch of sophistication. Light and airy, this dupatta can be paired with various outfits, enhancing your style for both casual and festive occasions.",
+    "Img": "https://pk.khaadi.com/dw/image/v2/BJTG_PRD/on/demandware.static/-/Sites-khaadi-master-catalog/default/dwbdb9dd15/images/hi-res/eeb24654b_green_2.jpg?sw=400&sh=600"
+},
+{
+    "Id": 20,
+    "Price": 5299,
+    "Oldprice": 6499,
+    "Percentoff": "18%",
+    "Name": "Trendy Hooded Sweatshirt for All Seasons",
+    "Category": "Girls",
+    "Description": "Stay cozy and stylish with this trendy hooded sweatshirt. Designed for all seasons, it offers a relaxed fit and modern style, making it perfect for casual outings or lounging. Made from high-quality fabric, this sweatshirt ensures both comfort and durability.",
+    "Img": "https://pk.khaadi.com/dw/image/v2/BJTG_PRD/on/demandware.static/-/Sites-khaadi-master-catalog/default/dw43ddbee3/images/hi-res/ees24612a_brown_2.jpg?sw=400&sh=600"
+},
+
+{
+    "Id": 21,
+    "Price": 2999,
+    "Oldprice": 3499,
+    "Percentoff": "15%",
+    "Name": "Girls Floral Printed Frock",
+    "Category": "Kids",
+    "Description": "This lovely floral printed frock for girls is perfect for any casual or special occasion. Made from lightweight, breathable fabric, it provides both comfort and style. The charming floral pattern adds a touch of elegance, making it an ideal choice for your little one’s wardrobe.",
+    "Img": "https://edenrobe.com/cdn/shop/files/24_G_GirlsFrocks_EGTF24S-200098_1_375x_crop_center.jpg?v=1716967202"
+},
+{
+    "Id": 22,
+    "Price": 3499,
+    "Oldprice": 3999,
+    "Percentoff": "12%",
+    "Name": "Boys Classic Kurta Shalwar",
+    "Category": "Kids",
+    "Description": "This classic boys' kurta shalwar set is perfect for traditional events and family gatherings. Made from high-quality fabric, it ensures comfort and style while retaining cultural charm. The set comes in a timeless design that never goes out of fashion.",
+    "Img": "https://edenrobe.com/cdn/shop/files/24_B_BoysKurtaShalwar_EBTKS24-3956_1_375x_crop_center.jpg?v=1718110604"
+},
+{
+    "Id": 23,
+    "Price": 3199,
+    "Oldprice": 3699,
+    "Percentoff": "13%",
+    "Name": "Girls Elegant Party Frock",
+    "Category": "Kids",
+    "Description": "This elegant party frock is designed for special occasions. With a comfortable fit and stylish look, it’s perfect for making your little girl shine at any event. The high-quality fabric and intricate detailing make it a must-have for formal gatherings.",
+    "Img": "https://edenrobe.com/cdn/shop/files/24_G_GirlsFrocks_EGTF24S-200063_1_1d79808c-bf16-4ecd-bb4d-515efd670921_375x_crop_center.jpg?v=1722365236"
+},
+{
+    "Id": 24,
+    "Price": 4999,
+    "Oldprice": 5799,
+    "Percentoff": "14%",
+    "Name": "Purple Embroidered Lawn Kurta",
+    "Category": "Kids",
+    "Description": "This beautiful purple lawn kurta is perfect for summer occasions. Featuring intricate embroidery, it combines traditional elegance with contemporary style. The breathable fabric ensures comfort in warm weather, making it an ideal choice for festive gatherings.",
+    "Img": "https://www.mariab.pk/cdn/shop/files/MKSW2432PurpleCloseup_D_540x.jpg?v=1729689930"
+},
+{
+    "Id": 25,
+    "Price": 2799,
+    "Oldprice": 3299,
+    "Percentoff": "15%",
+    "Name": "Boys Casual Striped Shirt",
+    "Category": "Kids",
+    "Description": "This casual striped shirt for boys is perfect for everyday wear. Made from soft, durable fabric, it provides comfort throughout the day. The versatile striped design allows it to be paired with jeans or shorts for a relaxed look.",
+    "Img": "https://edenrobe.com/cdn/shop/files/23_B_BoysShirts_EBTS23-27518_2_375x_crop_center.jpg?v=1716026197"
+},
+{
+    "Id": 26,
+    "Price": 3599,
+    "Oldprice": 4199,
+    "Percentoff": "14%",
+    "Name": "Girls Embroidered Kurti Pant Set",
+    "Category": "Kids",
+    "Description": "This embroidered kurti pant set is a stylish choice for young girls. The set is crafted with attention to detail, featuring intricate embroidery on the kurti, paired with comfortable pants, making it perfect for family gatherings and festive events.",
+    "Img": "https://edenrobe.com/cdn/shop/files/0N9A6413EGTKP24-70712STthumbnail_375x_crop_center.jpg?v=1717076789"
+},
+{
+    "Id": 27,
+    "Price": 4999,
+    "Oldprice": 5999,
+    "Percentoff": "17%",
+    "Name": "White Embroidered Festive Kurta",
+    "Category": "Kids",
+    "Description": "This elegant white embroidered kurta is ideal for festive occasions. With its intricate design and high-quality fabric, it offers a perfect blend of traditional and modern style. The soft material ensures comfort, making it a beautiful choice for any celebration.",
+    "Img": "https://www.mariab.pk/cdn/shop/files/mks-ef22-28-whiteb_13ac1824-1f6a-480b-b649-40fea65fe0f1_540x.jpg?v=1728291640"
+},
+{
+    "Id": 28,
+    "Price": 5799,
+    "Oldprice": 6899,
+    "Percentoff": "16%",
+    "Name": "Red Embroidered Festive Suit",
+    "Category": "Kids",
+    "Description": "Stand out with this stunning red embroidered festive suit. Made from premium fabric, it combines comfort and style with intricate embroidery. Perfect for formal gatherings, this suit is designed to make you feel elegant and confident.",
+    "Img": "https://www.mariab.pk/cdn/shop/files/MKBSS24-11RedCloseup-1_540x.jpg?v=1709536256"
+},
+{
+    "Id": 29,
+    "Price": 1999,
+    "Oldprice": 2399,
+    "Percentoff": "17%",
+    "Name": "Boys Polo Shirt with Contrast Collar",
+    "Category": "Kids",
+    "Description": "This stylish boys' polo shirt features a contrast collar for a trendy look. Made from soft, breathable material, it ensures comfort during active play. Perfect for casual outings, this shirt adds a touch of sophistication to your child’s wardrobe.",
+    "Img": "https://edenrobe.com/cdn/shop/files/24_B_BoysPoloShirts_EBTPS24-009_1_375x_crop_center.jpg?v=1716040607"
+},
+{
+    "Id": 30,
+    "Price": 3299,
+    "Oldprice": 3799,
+    "Percentoff": "13%",
+    "Name": "Boys Traditional Kurta Shalwar",
+    "Category": "Kids",
+    "Description": "This boys' traditional kurta shalwar set is perfect for cultural events and special gatherings. Made from soft, durable fabric, it provides comfort while keeping the classic traditional look intact. A perfect choice for young boys to wear on special occasions.",
+    "Img": "https://edenrobe.com/cdn/shop/products/23_B_BoysKurtaShalwar_EBTKS23-3894_1_375x_crop_center.jpg?v=1701486814"
+},
+
+{
+    "Id": 31,
+    "Price": 2799,
+    "Oldprice": 3299,
+    "Percentoff": "15%",
+    "Name": "Boys Printed Hoodie",
+    "Category": "justforyou",
+    "Description": "This stylish hoodie for boys features a cool printed design, perfect for casual wear. Made from comfortable and warm fabric, it’s great for chilly days and pairs well with jeans or joggers for a relaxed look.",
+    "Img": "https://m.media-amazon.com/images/I/71S9l3l-edL._AC_UL480_FMwebp_QL65_.jpg"
+},
+{
+    "Id": 32,
+    "Price": 1999,
+    "Oldprice": 2499,
+    "Percentoff": "20%",
+    "Name": "Girls Pink Unicorn Pajama Set",
+    "Category": "justforyou",
+    "Description": "This cozy unicorn pajama set is designed for girls who love a magical bedtime look. Made with soft and breathable fabric, it ensures a comfortable night’s sleep, with an adorable unicorn print for a touch of fantasy.",
+    "Img": "https://m.media-amazon.com/images/I/71PVCgdV6uL._AC_UL480_FMwebp_QL65_.jpg"
+},
+{
+    "Id": 33,
+    "Price": 5999,
+    "Oldprice": 6999,
+    "Percentoff": "14%",
+    "Name": "Traditional Embroidered Kurta",
+    "Category": "justforyou",
+    "Description": "This traditional embroidered kurta is a stylish option for kids to wear at cultural events. The intricate embroidery adds a touch of elegance, while the comfortable fabric ensures a great fit for special occasions.",
+    "Img": "https://www.junaidjamshed.com/media/catalog/product/j/a/janan_-1_2__2.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=755&width=589&canvas=589:755"
+},
+{
+    "Id": 34,
+    "Price": 1499,
+    "Oldprice": 1799,
+    "Percentoff": "17%",
+    "Name": "Girls Winter Beanie Set",
+    "Category": "justforyou",
+    "Description": "This cute winter beanie set for girls is ideal for cold weather. The set includes a warm beanie and matching scarf, keeping your little one snug and stylish. The adorable design makes it a favorite for winter outings.",
+    "Img": "https://m.media-amazon.com/images/I/71T8EVp49iL._AC_UL480_FMwebp_QL65_.jpg"
+},
+{
+    "Id": 35,
+    "Price": 7999,
+    "Oldprice": 8999,
+    "Percentoff": "11%",
+    "Name": "Girls Fancy Embroidered Dress",
+    "Category": "justforyou",
+    "Description": "This fancy embroidered dress for girls is perfect for formal events. With intricate designs and a flowing silhouette, it’s sure to make your little one stand out. The high-quality fabric ensures a comfortable fit.",
+    "Img": "https://assets0.mirraw.com/images/12768323/New-Resize_0064_Raania-Collection-Websize-Images_10_1728x_long_webp.webp?1723462423"
+},
+{
+    "Id": 36,
+    "Price": 3499,
+    "Oldprice": 3999,
+    "Percentoff": "13%",
+    "Name": "Boys Checkered Flannel Shirt",
+    "Category": "justforyou",
+    "Description": "This classic checkered flannel shirt for boys is great for layering in cooler weather. Made from soft fabric, it combines comfort with style and can be paired with jeans for a timeless look.",
+    "Img": "https://m.media-amazon.com/images/I/813X5k84CJL._AC_UL480_FMwebp_QL65_.jpg"
+},
+{
+    "Id": 37,
+    "Price": 2499,
+    "Oldprice": 2999,
+    "Percentoff": "17%",
+    "Name": "Boys Adventure Graphic Tee",
+    "Category": "justforyou",
+    "Description": "This graphic tee for boys is designed with an adventure theme, perfect for active kids. Made from soft, breathable fabric, it provides comfort and a trendy look, ideal for everyday wear.",
+    "Img": "https://m.media-amazon.com/images/I/515HupVUYnL._AC_UL480_FMwebp_QL65_.jpg"
+},
+
+{
+    "Id": 38,
+    "Price": 2199,
+    "Oldprice": 2699,
+    "Percentoff": "19%",
+    "Name": "Kids Blue Graphic T-Shirt",
+    "Category": "onsalenow",
+    "Description": "A trendy blue t-shirt featuring a unique graphic design, ideal for kids who love casual and stylish outfits. Made from soft cotton for all-day comfort.",
+    "Img": "https://scontent.fpew2-1.fna.fbcdn.net/v/t39.30808-6/302683644_643332013816126_6643622090571175395_n.jpg?stp=dst-jpg_s640x640&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHr16Z1404QLWFEWDRf9QFggyzVDDmEYeuDLNUMOYRh6zeUGmpipc9MGJ_ryc2V0wbI0v-H2guHtLHd5JNsud5w&_nc_ohc=wd5mye_yu-kQ7kNvgHkX1Er&_nc_zt=23&_nc_ht=scontent.fpew2-1.fna&_nc_gid=AZbT7izpbCmwrGhffpIFWl9&oh=00_AYCeBO7uTJcNWbp3g1eIII0e3UHJHtfd9fYkdQ7cMQcLdw&oe=672A906E"
+},
+{
+    "Id": 39,
+    "Price": 3299,
+    "Oldprice": 3799,
+    "Percentoff": "13%",
+    "Name": "Kids Printed Hoodie",
+    "Category": "onsalenow",
+    "Description": "This comfortable and stylish hoodie is perfect for kids. With a colorful print, it adds fun to any outfit and keeps kids warm during cooler days.",
+    "Img": "https://www.peanutbuttercollection.com/cdn/shop/products/230226-PBC-1427ColumbiaGlendale-Kids-1887-Editcopy_800x.jpg?v=1681953601"
+},
+{
+    "Id": 40,
+    "Price": 4799,
+    "Oldprice": 5499,
+    "Percentoff": "13%",
+    "Name": "Mustard Embroidered Dress",
+    "Category": "onsalenow",
+    "Description": "An elegant embroidered dress in a mustard color, perfect for formal occasions. The comfortable fit and intricate embroidery make it a stylish choice for kids.",
+    "Img": "https://imanistudio.com/wp-content/uploads/2023/05/mks-ea23-01-mustard-imanistudio.com-300x450.jpg"
+},
+{
+    "Id": 41,
+    "Price": 1499,
+    "Oldprice": 1899,
+    "Percentoff": "21%",
+    "Name": "Kids Dinosaur T-Shirt",
+    "Category": "onsalenow",
+    "Description": "This fun dinosaur t-shirt is great for kids who love playful prints. Made with high-quality cotton, it’s comfortable and perfect for everyday wear.",
+    "Img": "https://i.pinimg.com/736x/91/c0/cf/91c0cf3c30a9914530ba64d8cf61d6bd.jpg"
+},
+{
+    "Id": 42,
+    "Price": 1899,
+    "Oldprice": 2299,
+    "Percentoff": "17%",
+    "Name": "Boys Classic Polo Shirt",
+    "Category": "onsalenow",
+    "Description": "A classic polo shirt that brings a smart look for boys. Made with breathable fabric, it’s suitable for both casual and semi-formal occasions.",
+    "Img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmejEghugz-seX7XXtVgQ2zJAgIidaXuq57xkyaR85rDgYzz8UIAG3gsK_3VkHt8byCyM&usqp=CAU"
+},
+{
+    "Id": 43,
+    "Price": 2999,
+    "Oldprice": 3499,
+    "Percentoff": "14%",
+    "Name": "Girls Floral Dress",
+    "Category": "onsalenow",
+    "Description": "This floral dress is perfect for girls who love vibrant styles. Made with soft fabric, it’s comfortable and ideal for summer outings.",
+    "Img": "https://static-01.daraz.pk/p/5df6422173a615c4af91b170b0cb88c8.jpg"
+},
+
+
+    {
+        "Id": 44,
+        "Price": 3299,
+        "Oldprice": 3999,
+        "Percentoff": "18%",
+        "Name": "Men's Denim Jacket",
+        "Category": "Trending",
+        "Description": "Stylish denim jacket perfect for casual outings, offering a blend of comfort and fashion with a modern design.",
+        "Img": "https://img.ltwebstatic.com/images3_spmp/2024/06/27/b1/171949440556772ce4402704ad5bf8440f609d3748_thumbnail_720x.jpg"
+    },
+    {
+        "Id": 45,
+        "Price": 2599,
+        "Oldprice": 2999,
+        "Percentoff": "13%",
+        "Name": "Women's Floral Dress",
+        "Category": "Trending",
+        "Description": "A charming floral dress for women, ideal for summer outings. Features a relaxed fit and floral pattern for a trendy look.",
+        "Img": "https://img.ltwebstatic.com/images3_spmp/2023/07/26/1690343241fe2b1ee3ff1a055a0518c994e543603e_thumbnail_720x.webp"
+    },
+    {
+        "Id": 46,
+        "Price": 1899,
+        "Oldprice": 2299,
+        "Percentoff": "17%",
+        "Name": "Traditional Pathani Chappal",
+        "Category": "Trending",
+        "Description": "Authentic Pathani chappal made from quality leather, offering both comfort and traditional style.",
+        "Img": "https://pathanichappal.com/wp-content/uploads/2022/02/3.jpg"
+    },
+    {
+        "Id": 47,
+        "Price": 2799,
+        "Oldprice": 3299,
+        "Percentoff": "15%",
+        "Name": "Men's Kangaroo Hoodie",
+        "Category": "Trending",
+        "Description": "Branded kangaroo hoodie for men, designed to provide warmth and comfort. Perfect for casual wear and outdoor activities.",
+        "Img": "https://www.oshi.pk/images/products/1-x-kangaroo-branded-hoodie-best-quality-for-menboys-15678-660.jpg"
+    },
+    {
+        "Id": 48,
+        "Price": 1199,
+        "Oldprice": 1499,
+        "Percentoff": "20%",
+        "Name": "Stylish Women's Bag",
+        "Category": "Trending",
+        "Description": "Compact and stylish handbag suitable for any occasion, made with quality materials for durability and elegance.",
+        "Img": "https://static-01.daraz.pk/p/f953d2424ae8631d5d37f157ee9404dd.jpg"
+    },
+    {
+        "Id": 49,
+        "Price": 2199,
+        "Oldprice": 2699,
+        "Percentoff": "19%",
+        "Name": "Men's Leather Wallet",
+        "Category": "Trending",
+        "Description": "Classic leather wallet for men, with multiple compartments for cards and cash. Durable and stylish accessory.",
+        "Img": "https://static-01.daraz.pk/p/1ab3ce233bff8da110595e1e0d3ba665.jpg"
+    },
+    {
+        "Id": 50,
+        "Price": 1599,
+        "Oldprice": 1999,
+        "Percentoff": "20%",
+        "Name": "Women's Trendy Blouse",
+        "Category": "Trending",
+        "Description": "Trendy blouse with a modern design, ideal for casual and semi-formal occasions. Made with breathable fabric for comfort.",
+        "Img": "https://wearium.pk/cdn/shop/files/IMG-6068_479a13f4-7c7a-4dd5-96a3-cc741d41f3f9_1024x1024.jpg?v=1723037560"
+    },
+    {
+        "Id": 51,
+        "Price": 799,
+        "Oldprice": 999,
+        "Percentoff": "20%",
+        "Name": "Kids Cap - Dark Blue",
+        "Category": "Trending",
+        "Description": "A stylish dark blue cap for kids, perfect for outdoor wear and protection from the sun. Comfortable and adjustable.",
+        "Img": "https://rukminim2.flixcart.com/image/720/864/xif0q/kids-cap/t/m/x/18-24-months-kc-40-youth-dark-blue-zacharias-original-imagz5h2yz29saxw.jpeg?q=60&crop=false"
+    }
+]
+
+
+       
+    
