@@ -37,7 +37,6 @@ export const login = async (req, res) => {
     const { email, password } = req.body;
     const user = await User.findOne({ email });
 
-    // Check if user exists before comparing passwords
     if (!user) {
       return res.status(400).json({ message: "Invalid username or password" });
     }
@@ -74,6 +73,41 @@ export const deleteUser = async (req, res) => {
     }
 
     res.status(200).json({ message: "User account deleted successfully" });
+  } catch (error) {
+    console.log("Error:", error.message);
+    res.status(500).json({ message: "Internal server error" });
+  }
+};
+
+// Update User function
+export const updateUser = async (req, res) => {
+  const { email } = req.params;
+  const { fullname, newEmail, password } = req.body;
+
+  try {
+    const user = await User.findOne({ email });
+
+    if (!user) {
+      return res.status(404).json({ message: "User not found" });
+    }
+
+    if (password) {
+      const hashedPassword = await bcryptjs.hash(password, 10);
+      user.password = hashedPassword;
+    }
+
+    user.fullname = fullname || user.fullname;
+    user.email = newEmail || user.email; // Update email with `newEmail` if provided
+
+    const updatedUser = await user.save();
+    res.status(200).json({
+      message: "User updated successfully",
+      user: {
+        _id: updatedUser._id,
+        fullname: updatedUser.fullname,
+        email: updatedUser.email,
+      },
+    });
   } catch (error) {
     console.log("Error:", error.message);
     res.status(500).json({ message: "Internal server error" });

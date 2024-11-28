@@ -7,7 +7,7 @@ const Girls = () => {
   return (
     <>
      <Navbar />
-     <div  className='min-h-screen'>
+     <div  className='pt-20'>
       <Girl />
       </div>
       <Footer /> 

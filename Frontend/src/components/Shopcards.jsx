@@ -8,7 +8,7 @@ const Shopcards = ({ item }) => {
   return (
     <Link to={`/product/${item._id}`}>
       <div className=' pl-4 md:mt-2 py-3 px-2'>
-        <div className="card rounded-none hover:shadow-xl cursor-pointer px-1 md:w-52 h-auto hover:scale-100 duration-200 md:scale-90 ">
+        <div className="card rounded-none hover:shadow-2xl cursor-pointer px-1 md:w-52 h-auto hover:scale-100 duration-200 md:scale-90 ">
 
           <figure>
             <img className='object-cover md:w-full h-60 hover:shadow-md'

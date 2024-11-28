@@ -1,7 +1,7 @@
 import React from 'react'
-import Navbar from '../../components/Navbar'
-import Filter from '../../components/Filter'
-import Footer from '../../components/Footer'
+import Navbar from '../Navbar'
+import Filter from '../Filter'
+import Footer from '../Footer'
 
 const FilData = () => {
   return (

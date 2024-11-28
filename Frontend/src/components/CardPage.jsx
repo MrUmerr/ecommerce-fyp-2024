@@ -79,7 +79,7 @@ const CardPage = () => {
           </p>
           <div className="flex items-center space-x-2 mt-2">
             <p className="text-lg font-medium line-through text-gray-400">{product?.Oldprice || '0.00'}</p>
-            <p className="text-black text-sm dark:text-white">{product?.Percentoff || '0'} OFF</p>
+            <p className="text-black text-sm dark:text-white">{product?.Percentoff || '0'} </p>
           </div>
           <ReviewStars />
           <div className="flex mt-4 items-center">
