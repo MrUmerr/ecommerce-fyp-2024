@@ -9,10 +9,10 @@ import CustomerServices from './CustomerServices';
 import { Link } from 'react-router-dom';
 
 const HomeData = () => {
-
   const [filterData, setFilterData] = useState([]);
   const [jfuData, setJfuData] = useState([]);
   const [testData, setTestData] = useState([]);
+  const [loading, setLoading] = useState(true);
 
   useEffect(() => {
     const getShop = async () => {
@@ -26,15 +26,16 @@ const HomeData = () => {
         setFilterData(filterData);
         setJfuData(jfuData);
         setTestData(testData);
+        setLoading(false); // Set loading to false after data is fetched
 
         console.log(res.data);
       } catch (error) {
         console.log(error);
+        setLoading(false); // Stop loading if there's an error
       }
     };
     getShop();
   }, []);
-
 
   var settings = {
     dots: true,
@@ -75,42 +76,43 @@ const HomeData = () => {
     ]
   };
 
+  if (loading) {
+    return <div>Loading...</div>; // Show loading while data is fetching
+  }
+
   return (
-    <>
-      <div className="max-w-screen-2xl container mx-auto md:px-16 px-4">
-        <h1 className="font-semibold text-xl mb-2 mt-8">On Sale Now</h1>
-        <div className='max-w-screen-2xl container mx-auto'>
-
-          <Slider {...settings}>
-            {filterData.map((item) => (
-              <Shopcards item={item} key={item.Id} />
-            ))}
-          </Slider>
-          <br />
-          <br />
-
-        </div>
-        <h1 className="font-semibold text-xl mb-2 mt-2">Just For You</h1>
+    <div className="max-w-screen-2xl container mx-auto md:px-16 px-4">
+      <h1 className="font-semibold text-xl mb-2 mt-8">On Sale Now</h1>
+      <div className='max-w-screen-2xl container mx-auto'>
         <Slider {...settings}>
-          {jfuData.map((item) => (
-            <Shopcards item={item} key={item.Id} />
-          ))}
-        </Slider>
-
-        <AutoPlayMethods />
-        <h1 className="font-semibold text-xl mb-2 mt-4 ">Trending</h1>
-        <Slider {...settings}>
-          {testData.map((item) => (
-           <Shopcards item={item} key={item.Id} />
+          {filterData.map((item) => (
+            <Shopcards item={item} key={item._id} /> // Use item._id for the key
           ))}
         </Slider>
         <br />
         <br />
-        <CustomerServices />
       </div>
-    </>
-  )
+
+      <h1 className="font-semibold text-xl mb-2 mt-2">Just For You</h1>
+      <Slider {...settings}>
+        {jfuData.map((item) => (
+          <Shopcards item={item} key={item._id} /> // Use item._id for the key
+        ))}
+      </Slider>
+
+      <AutoPlayMethods />
+      
+      <h1 className="font-semibold text-xl mb-2 mt-4 ">Trending</h1>
+      <Slider {...settings}>
+        {testData.map((item) => (
+          <Shopcards item={item} key={item._id} /> // Use item._id for the key
+        ))}
+      </Slider>
+      <br />
+      <br />
+      <CustomerServices />
+    </div>
+  );
 }
 
 export default HomeData;
-

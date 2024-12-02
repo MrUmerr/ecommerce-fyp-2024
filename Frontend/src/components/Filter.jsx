@@ -12,14 +12,6 @@ const Filter = ({ onFilter }) => {
     onFilter(filters);
   };
 
-  const handleReset = (e) => {
-    e.preventDefault(); // Prevent default behavior
-    setCategory("");
-    setMinPrice("");
-    setMaxPrice("");
-    setName("");
-    onFilter({ category: "", minPrice: "", maxPrice: "", name: "" });
-  };
 
   return (
     <div className="filter-container p-4 rounded shadow-md md:bg-slate-50 md:dark:bg-slate-950">

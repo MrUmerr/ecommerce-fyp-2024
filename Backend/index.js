@@ -47,4 +47,3 @@ app.use("/api/comments", commentRoutes);
 app.use("/api", userRoute); 
 app.use("/", userRoute); //new
 
-
